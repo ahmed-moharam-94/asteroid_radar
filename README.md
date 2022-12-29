@@ -10,6 +10,6 @@ Udacity Advanced Android Kotlin Development Project.
 Built by Room, Picasso and Moshi libraries. 
 ```
 
-<img src="https://github.com/ahmed-moharam-94/asteroid_radar/blob/master/media/screen_shot_1.png" width="150" height="300"> |
-<img src="https://github.com/ahmed-moharam-94/asteroid_radar/blob/master/media/screen_shot_2.png" width="150" height="300"> |
-<img src="https://github.com/ahmed-moharam-94/asteroid_radar/blob/master/media/screen_shot_3.png" width="150" height="300"> 
+<img src="https://github.com/ahmed-moharam-94/asteroid_radar/blob/master/media/screen_shot_1.jpg" width="150" height="300"> |
+<img src="https://github.com/ahmed-moharam-94/asteroid_radar/blob/master/media/screen_shot_2.jpg" width="150" height="300"> |
+<img src="https://github.com/ahmed-moharam-94/asteroid_radar/blob/master/media/screen_shot_3.jpg" width="150" height="300">

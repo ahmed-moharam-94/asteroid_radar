@@ -1,6 +1,8 @@
 # Asteroid Radar
+```
 Asteroid Radar is an app to view the asteroids detected by NASA that pass near Earth.
-Udacity Advanced Android Kotlin Development Project.
+Part of Udacity Advanced Android Kotlin Development Nanodegree.
+```
 
 ##Features:
 ```
